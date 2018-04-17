@@ -1,9 +1,9 @@
 # Operation
-While the Hexbright is powered down, a *quick* press of the button will power up the Hexbright; repeated presses will increase power to the LED driver and then power down the Hexbright.
+* While the Hexbright is powered down, a *quick* press of the button will power up the Hexbright; repeated presses will increase power to the LED driver and then power down the Hexbright.
 
-While the Hexbright is powered down, a *long* press of the button will power up the Hexbright in **standby mode**; repeated presses will increase power to the LED driver and then power down the Hexbright, exiting **standby mode**.
+* While the Hexbright is powered down, a *long* press of the button will power up the Hexbright in **standby mode**; repeated presses will increase power to the LED driver and then power down the Hexbright, exiting **standby mode**.
 
-Holding the button while the LED driver is on will enter **dazzle mode** until released.
+* Holding the button while the LED driver is on will enter **dazzle mode** until released.
 
 # Auto-Off
 Once the Hexbright has been powered on for a period of time the next button press will always power down the Hexbright rather than cycle through the remaining power levels.
